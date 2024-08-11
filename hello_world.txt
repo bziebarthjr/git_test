@@ -1,0 +1,1 @@
+Learning connecting Visual Studio  with Git in Linux
